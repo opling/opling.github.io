@@ -1,6 +1,6 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: Поиск
+excerpt: "Здесь можно поискать страницу на сайте или заметку в журнале"
 ---
 
 {% include site-search.html %}
