@@ -32,17 +32,23 @@ feature_image: "/assets/header.jpg"
 5. Новые методы и технологии сбора данных
 
 Участники Оплинга разделяют следующие базовые принципы (могут быть частично пересмотрены и скорректированы в будущем)
-- **Мы стремимся к этичному взаимодействию лингвиста и носителя в полевой работе.** Важными моментами являются полное информированное согласие носителей на запись, эксплицитно согласованная степень анонимности языковых материалов, а также выстраивание доверительных отношений с сообществом. Мы считаем важным также поддерживать и повышать собственный уровень информированности и осознанности в этой сфере.
+- **Мы стремимся к этичному взаимодействию лингвиста и носителя в полевой работе.**\\
+Важными моментами являются полное информированное согласие носителей на запись, эксплицитно согласованная степень анонимности языковых материалов, а также выстраивание доверительных отношений с сообществом. Мы считаем важным также поддерживать и повышать собственный уровень информированности и осознанности в этой сфере.
 
-- **Оплинг поддерживает идею открытого формата данных и представления полевых материалов всем, кому это может быть интересно для научных или культурных задач.** Материалы по документации языка должны быть, по нашим представлениям, доступны не только самому лингвисту или той институции, которая предоставила средства для полевой работы, но и сообществу, а также всем желающим, поскольку языки относятся к числу культурного достояния.
+- **Оплинг поддерживает идею открытого формата данных и представления полевых материалов всем, кому это может быть интересно для научных или культурных задач.** \\
+Материалы по документации языка должны быть, по нашим представлениям, доступны не только самому лингвисту или той институции, которая предоставила средства для полевой работы, но и сообществу, а также всем желающим, поскольку языки относятся к числу культурного достояния.
 
-- **Мы стремимся к этичному и ненасильственному взаимодействию внутри лингвистического сообщества.** В том числе мы считаем, что стремление к научной истине и желание улучшить качество научного исследования не должно превалировать над бережным и этичным взаимодействием с коллегами.
+- **Мы стремимся к этичному и ненасильственному взаимодействию внутри лингвистического сообщества.**\\
+В том числе мы считаем, что стремление к научной истине и желание улучшить качество научного исследования не должно превалировать над бережным и этичным взаимодействием с коллегами.
 
 Работа Оплинга базируется на следующих принципах:
 - **Оплинг является местом обсуждения различных вопросов полевой лингвистики, которым на данный момент уделяется недостаточно внимания.**
-- **Мы считаем, что особую важность для научной работы имеет свободное, нерегламентированное и подчас спонтанное научное обсуждение.** В рамках Оплинга мы организуем мероприятия, провоцирующие свободную научную дискуссию (например, выездные семинары, не предполагающие удаленное участие по интернету).
-- **Работа Оплинга предполагает преимущественно горизонтальную структуру, а не иерархическую, поддерживается инициатива участников.** Все желающие могут участвовать в любых направлениях работы общества (встречи, семинары, издание журнала и др.) в той степени, в которой сочтет нужным.
-- **Мы допускаем использование разных языков для коммуникации внутри сообщества.** На данный момент общение в рамках Оплинга ведётся на русском и английском, но этот список открыт.
+- **Мы считаем, что особую важность для научной работы имеет свободное, нерегламентированное и подчас спонтанное научное обсуждение.**\\
+В рамках Оплинга мы организуем мероприятия, провоцирующие свободную научную дискуссию (например, выездные семинары, не предполагающие удаленное участие по интернету).
+- **Работа Оплинга предполагает преимущественно горизонтальную структуру, а не иерархическую, поддерживается инициатива участников.**\\
+Все желающие могут участвовать в любых направлениях работы общества (встречи, семинары, издание журнала и др.) в той степени, в которой сочтет нужным.
+- **Мы допускаем использование разных языков для коммуникации внутри сообщества.**\\
+На данный момент общение в рамках Оплинга ведётся на русском и английском, но этот список открыт.
 
 ## Mission and vision of the Field Linguists Society (Opling)
 
@@ -56,17 +62,23 @@ Our society was founded with the aim of discussing questions directly and indire
 
 Opling’s members share the following basic principles (which could be partially revised in the future):
 
-- We aim at an ethical cooperation between linguists and native speakers during fieldwork. The fundamental aspects of such an ethical cooperation are the speakers’ fully informed consent to recording, an explicitly agreed degree of anonymity of the linguistic material, and the creation of a trusting relationship with the community. We also believe that it is important to maintain and raise our own awareness in this area.
+- **We aim at an ethical cooperation between linguists and native speakers during fieldwork.**\\
+The fundamental aspects of such an ethical cooperation are the speakers’ fully informed consent to recording, an explicitly agreed degree of anonymity of the linguistic material, and the creation of a trusting relationship with the community. We also believe that it is important to maintain and raise our own awareness in this area.
 
-- Opling supports the idea of open-format data and of sharing field material with anyone who would be interested in it for scientific or cultural tasks. In our view, language documentation material should be accessible not only for the linguist, or for the financing institution, but also for the community and whoever might be interested in such data, since languages are part of the cultural heritage.
+- **Opling supports the idea of open-format data and of sharing field material with anyone who would be interested in it for scientific or cultural tasks.**\\
+In our view, language documentation material should be accessible not only for the linguist, or for the financing institution, but also for the community and whoever might be interested in such data, since languages are part of the cultural heritage.
 
-- We aim at an ethical and non-violent cooperation within the scientific community. In particular, we believe that the commitment to scientific truth and the desire to improve the quality of scientific research must not prevail over a careful and ethical cooperation with colleagues.
+- **We aim at an ethical and non-violent cooperation within the scientific community.**\\
+In particular, we believe that the commitment to scientific truth and the desire to improve the quality of scientific research must not prevail over a careful and ethical cooperation with colleagues.
 
 Opling’s work is based on the following principles:
 
 - Opling is a place for discussing questions related to field linguistics, which have not received sufficient attention so far.
+
 - We believe that free and spontaneous discussion is particularly important for scientific work. Opling organizes events that favor spontaneous scientific discussion (for instance, retreats without online participation).
+
 - Opling’s work has an essentially horizontal - and not hierarchical - structure: the members’ initiative is encouraged. Each member can participate in any activity of our society (meetings, seminars, journal edition, etc.) to the extent that he/she wants to.
+
 - We accept the use of different languages for communication within the society. At the moment, communication within Opling is conducted in Russian and English, but the list is open.
 
 ## Контакты 
