@@ -121,8 +121,6 @@ navigation_header:
   url: /events/
 - title: Журнал
   url: /blog/
-- title: Авторам
-  url: /info_for_authors/
 - title: Навигация по тэгам
   url: /categories/
 - title: Поиск
