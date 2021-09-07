@@ -2,7 +2,7 @@ _id: 8ffe66e0-0fbe-11ec-bd1c-13c46b346a24
 _parent: >-
   ?????????????????????/%D0%BF%D0%BE%D0%BB%D0%B5/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/2021/09/05/example-post-one/
 replying_to_uid: ''
-message: "## Тестируем возможности md\r\n\r\n- 1\r\n- 2\r\n- 3\r\n\r\n~~ зачеркнутый текст ~~\r\n**жирный**\r\n*курсив*\r\n\r\n---\r\n\r\n```\r\nblok koda\r\n```\r\n\r\n[title](https://www.example.com)\r\n\r\n| Syntax | Description |\r\n| ----------- | ----------- |\r\n| Header | Title |\r\n| Paragraph | Text |\r\n\r\n\r\nHere's a sentence with a footnote. [^1]\r\n\r\n[^1]: This is the footnote.\r\n\r\n> blockquote"
+message: "## Тестируем возможности md\r\n\r\n- 1\r\n- 2\r\n- 3\r\n\r\n~~зачеркнутый текст~~\r\n**жирный**\r\n*курсив*\r\n\r\n---\r\n\r\n```\r\nblok koda\r\n```\r\n\r\n[title](https://www.example.com)\r\n\r\n| Syntax | Description |\r\n| ----------- | ----------- |\r\n| Header | Title |\r\n| Paragraph | Text |\r\n\r\n\r\nHere's a sentence with a footnote. [^1]\r\n\r\n[^1]: This is the footnote.\r\n\r\n> blockquote"
 name: triolo
 email: ''
 date: 1631007167
