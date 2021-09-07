@@ -1,14 +1,17 @@
 // comment styles from
 // https://github.com/willymcallister/willymcallister.github.io/blob/fbc7f396fbe80186b1abc63e436ec509190c1b3a/assets/main.scss
 
-$base-font-size:    16px !default;
-$comment-font-size: 14px !default;
-$small-font-size:   10px !default;
+//Vars
+
+$base-font-size: 14px !default;
+$comment-font-size: 16px !default;
+$small-font-size: 12px !default;
 
 
 //
 // Staticman new comment form
 //
+
 input, select, textarea, label, button {
 //    @extend body;
     font: 400 12 'Georgia, serif';
@@ -22,6 +25,7 @@ input, select, textarea, label, button {
     font-kerning: normal;
 }
 
+
 fieldset {
     border: none;
     padding: 0;
@@ -31,6 +35,9 @@ fieldset {
 .textfield {
     max-width: 100%;
     padding: 0.5rem 0;
+    h4 {
+        margin-bottom: 1rem;
+    }
 }
 
 // fields except the comment field get this class too
@@ -76,12 +83,15 @@ button:hover {
 // Staticman existing comments
 //
 .comments {
+line-height: 1rem;
 }
 .comment__new {
     padding: 0px 0px 14px 0px;
 }
 .comment__author {
-    color: $hoverColour;
+    color: $bodyColour;
+    font-size: $base-font-size;
+    font-weight: 700;
 }
 .comment__admin_tag {
     background-color: rgb(187, 255, 187);
@@ -89,10 +99,15 @@ button:hover {
     padding: 3px;
 }
 .comment__date {
-    font-size: $small-font-size;
+    font-size: $base-font-size;
 }
 .comment__body {
     font-size: $comment-font-size;
+    p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    padding-top: 0rem;
+    }
 }
 .comment__meta {
     text-align: left;
@@ -100,18 +115,18 @@ button:hover {
     font-size: $small-font-size;
 }
 .comments__existing {
-    padding: 8px 0px 0px 0px;
+    padding: 6px 0px 0px 0px;
 }
 .comment {
     border-top: 0px solid $hoverColour;
     padding: 0px 0px 0px 0px;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 .comment.child {
     margin-left: 3em;
 }
 .comment__reply-link {
-    color: $hoverColour;
+    color: $linkColour;
     font-size: $small-font-size;
     cursor: pointer;
 }

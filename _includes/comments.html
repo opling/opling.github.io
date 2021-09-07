@@ -4,6 +4,7 @@
   <!-- Existing comments -->
   <div class="comments__existing">
     <h4>Комментарии</h4>
+    <br>
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to_uid == ''" %}
     {% assign comments_by_date = comments | sort: 'date' | reverse %}
     <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
