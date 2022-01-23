@@ -94,9 +94,9 @@ lang: ru-RU # Set the site language
 title: "ОПЛинг" # Site name or title, also used in jekyll-seo-tag
 logo: "https://avatars.githubusercontent.com/u/88092974?v=4" # Site logo, also used in jekyll-seo-tag
 description: "Общество полевых лингвистов" # Site description and default description, also used in jekyll-seo-tag
-url: "?????????????????????" # Site url, also used in jekyll-seo-tag
+url: "opling.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/opling/???????????????????"
+repo: "https://github.com/opling/opling.github.io"
 email: "oplingvi@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
