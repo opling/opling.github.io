@@ -119,8 +119,6 @@ navigation_header:
   url: /
 - title: Встречи
   url: /events/
-- title: Журнал
-  url: /blog/
 - title: Навигация по тэгам
   url: /categories/
 - title: Поиск
