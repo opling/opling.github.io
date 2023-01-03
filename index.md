@@ -19,7 +19,6 @@ feature_image: "/assets/header.jpg"
 
 ## Что мы делаем?
 
-- [Журнал по полевой лингвистике](/blog/)
 - Экспедиционные материалы
 - [Встречи](/events/)
 - База корпусов (under construction)
