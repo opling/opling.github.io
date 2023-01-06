@@ -21,7 +21,7 @@ feature_image: "/assets/header.jpg"
 
 - Экспедиционные материалы
 - [Встречи](/events/)
-- База корпусов (under construction)
+
 
 ## Почему общество?
 
