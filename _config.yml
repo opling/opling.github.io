@@ -92,7 +92,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ru-RU # Set the site language
 title: "ОПЛинг" # Site name or title, also used in jekyll-seo-tag
-logo: "https://avatars.githubusercontent.com/u/88092974?v=4" # Site logo, also used in jekyll-seo-tag
+logo: "assets/logos/logo.jpg"
+# logo: "https://avatars.githubusercontent.com/u/88092974?v=4" # Site logo, also used in jekyll-seo-tag
 description: "Общество полевых лингвистов" # Site description and default description, also used in jekyll-seo-tag
 url: "opling.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
