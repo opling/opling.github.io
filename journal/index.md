@@ -5,3 +5,4 @@ aside: false
 ---
 ### Выпуск 1
 [Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
+[Social networks for academics](/01-unknown.html/)
