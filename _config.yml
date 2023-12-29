@@ -126,6 +126,8 @@ navigation_header:
   url: /search/
 - title: Члены ОПЛинга
   url: /members/
+- title: FAQ
+  url: /faq/
 
 navigation_footer:
 - title: Created by Konstantin Filatov, template by David Darnes
