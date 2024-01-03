@@ -1,5 +1,5 @@
 ---
-title: 6.5 семинар
+title: 6,5-й семинар
 feature_text: |
 feature_image: |
 excerpt: 
