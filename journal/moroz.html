@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title></title>
+	<style type="text/css">
+		h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+		a { color:#5D5D9E; } 
+		a:visited { color:#5D5D9E; } 
+		a:active { color:#5C615E; } 
+		a:hover { color:#B2B3B4; } 
+		#table_5c10059d th {  } 
+		#table_5c10059d td {  } 
+		#table_716b559c th {  } 
+		#table_716b559c td {  } 
+		#table_51784d86 th {  } 
+		#table_51784d86 td {  } 
+		#table_2b4e4854 th {  } 
+		#table_2b4e4854 td {  } 
+	</style>
+</head>
+<body style="background-color:#FFFFFF; padding:0;  margin: 0;">
+<div style="text-align:left;">
+  <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "> </span>
+  </div>
+<div style="text-align:center;">
+  <div style="vertical-align: top; position:relative; display: inline-block; width:90%; min-height:150px; background:none; " id="container_494a6936">
+
+	  <div style="text-align:left;"><br/><a href="https://opling.github.io/journal/index" style="font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Оглавление</a></div>
+	  <div style="text-align:right;"><h3><span style="text-align:right; font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">George Moroz</span></h3></div>
+    <div style="margin: 10px; display: block; " id="container_494a6936_padding" >	    
+	    <div style="text-align:center;">
+        <span style="font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/></span>
+        <h3 style="vertical-align: bottom; position:relative; display: inline-block; background:none; " id="heading_1d537268">
+          <span style="text-align:center;display: block">
+            <span style="font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Make more empirically grounded linguistics using cross-linguistic example database</span>
+            </span>
+          </h3>
+<span style="font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/><br/></span>        </div>
+      <div style="text-align:left;">
+<span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">Linguistic work can give rise to different outcomes: grammatical descriptions, dictionaries, annotated audio, video or text corpora, scientific papers, language learning materials (e.g., alphabet books, phrasebooks, learners’ guides), translation systems, and many others. During descriptive work, some linguistic facts are packaged in the form of a dictionary, grammatical description, corpora, or examples in a scientific paper. Since all these sources actually require a large amount of work to be completed, linguists tend to lose a substantial amount of data just because some projects fail to be published. Another problem is that the most preferable method of linguistic publication nowadays is in the form of scientific papers, which frequently lack any filter for data quality. Unfortunately, a publication bias affects the selection of papers that provide support for a hypothesis, and therefore some linguistic facts do not appear (Sterling 1959; Smart 1964; Sterling et al. 1995; Ioannidis 2005). It is possible that the same bias is to blame for the questionable quality of data in peer-reviewed papers (Thomason 1994). If we could separate publications from the linguistic facts they are based on (as in the case of human genome databases or botanic herbaria), we could count on material for making more robust linguistic statements. In this paper, I want to discuss how minimal bits of language information—examples—can be organized into a database, and how linguistics can benefit from such a database.
+</span>       
+        <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/><br/>I assume that several possible language facts could be included in this database:<ul>
+    <li>lexicon and its translation;</li>
+    <li>elicited examples;</li>
+    <li>grammaticality judgments;</li>
+    <li>experimental results (e.g., from a word-association experiment (McNeill 1966) and many others);</li>
+    <li>linguistic chunks from audio/video/written corpora, or grammatical description.</li></ul></span>
+        <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-style:italic; "></span>
+        <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">I would like to propose a unified cross-linguistic database format that contains a collection of language facts (in a text and/or video format for Sign languages). This is different from linguistic data banks (e.g., The Tromsø Repository of Language and Linguistics, (“TROLLing: The Tromsø Repository of Language and Linguistics,” n.d.)), where researchers make available their data and scripts that serve as supplementary materials for their publications. It is also different from treebanks or corpora (e.g., Universal Dependencies bank (Zeman et al. 2021)), where researchers prepare some corpora in a certain format, containing raw data with linguistic annotation. The database should follow the CLDF format (Forkel et al. 2018) and contain the following fields:
+</span><span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "> 
+<ul>
+<li>metadata fields:</li>
+<ul>
+<li>unique id that makes it possible to cite the example in a linguistic publication;
+<li>group id for examples that researchers want to group together by topic, type of question, or any other internal structure of the data;</li>
+<li>language and/or dialect information (e.g., glottocode from Glottolog (Hammarström et al. 2023));</li>
+<li>researcher(s) that collected the example;</li>
+<li>researcher(s) that provided the example;</li>
+<li>institution of the researcher(s);</li>
+<li>place of data collection (for the fieldwork data);</li>
+<li>time of data collection;</li>
+<li>source from which the data were collected (examples can be extracted from grammars, dictionaries, or corpora; they can be collected in the field, during an experiment, or using crowdsourcing data labeling platforms (Zhang et al. 2016));</li>
+<li>link to the bibliography file (e.g. in BibTex format (Patashnik 1988));</li>
+<li>version of the entry (so it is possible to keep track of changes in the case of updates);</li>
+<li>acknowledgements;</li>
+<li>optional comments provided by the researcher;</li>
+</ul>
+<li>consultant meta data:</li>
+<ul>
+<li>age;</li>
+<li>gender;</li>
+<li>clan/social group attribution;</li>
+<li>optional comments provided by the researcher;</li>
+</ul>
+<li>example fields:</li>
+<ul>
+<li>orthographic entry of the example;</li>
+<li>transcription entry of the example;</li>
+<li>information about the transcription system (e.g., from CLTS (List et al. 2021));</li>
+<li>glosses (e.g., using Leipzig glossing rules (Comrie et al. 2008));</li>
+<li>translation (or expected meaning for intentionally ungrammatical examples);</li>
+<li>grammaticality value;</li>
+<li>linguistic annotation fields (this could be useful for typological research);</li>
+<li>optional comments provided by the researcher.</li>
+</ul>
+</ul>
+</span>
+<span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; ">
+It can be reasonable to construct the unique example id in such a way that it reflects some metadata like doculect, time, version of the example, researcher(s), source, etc. This will make it easier for readers to extract information about the example cited in a text without looking into the database, such as the number of speakers that made a statement, the type of source, etc.</br></br>
+It is important to note that many tools have already been developed in order to deal with linguistic interlinearized glossed examples and texts: leipzig.js (Chauvette, n.d.), Xigt (Goodman et al. 2015), interlineaR (Loiseau 2018), scription2dlx (Hieber 2020), lingglosses (Moroz 2021), and pyigt (List et al. 2021). There is also a corpus of examples from books published by Language Science Press (“IMT Vault,” n.d.) that is really close to the prototype I propose. Even though this corpus is limited to one single type of source (examples from published books), it can potentially be extended to gather more types of data.</br><br>
+I witnessed several cases of local “data deluge” (Witt 2008) experienced by some researchers during my fieldwork trips. Researchers were overwhelmed with the amount of data that they collected, which resulted in many mistakes and lost data. The same can be said about typologists who collected the value for some doculect and forgot what was the real example beneath the statement. The database template I propose in this text can be helpful for a range of researchers: it can reduce “data deluge” and provide some ground for linguistic statements. Needless to say, the database itself can be a source of linguistic research, e.g., in cases when different researchers provide contradicting examples. I hope this database will be useful for the linguistic community and can lead to more reproducible (see, e.g. (Ioannidis 2005; Wieling et al. 2018)) and more empirically grounded linguistics.
+</br></br>
+
+<span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; ">References</span><span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/>
+
+Chauvette, Benjamin. n.d. “Leipzig.js: Interlinear Glossing for the Browser.” <a href="https://bdchauvette.net/leipzig.js/">https://bdchauvette.net/leipzig.js/</a>.<br/>
+Comrie, Bernard, Martin Haspelmath, and Balthasar Bickel. 2008. “The Leipzig Glossing Rules: Conventions for Interlinear Morpheme-by-Morpheme Glosses.” Department of Linguistics of the Max Planck Institute for Evolutionary Anthropology & the Department of Linguistics of the University of Leipzig. Retrieved January 28: 2010.<br/>
+Forkel, Robert, Johann-Mattis List, Simon J Greenhill, Christoph Rzymski, Sebastian Bank, Michael Cysouw, Harald Hammarström, Martin Haspelmath, Gereon A Kaiping, and Russell D Gray. 2018. “Cross-Linguistic Data Formats, Advancing Data Sharing and Re-Use in Comparative Linguistics.” Scientific Data 5 (1): 1–10.<br/>
+Goodman, Michael Wayne, Joshua Crowgey, Fei Xia, and Emily M Bender. 2015. “Xigt: Extensible Interlinear Glossed Text for Natural Language Processing.” Language Resources and Evaluation 49: 455–85.<br/>
+Hammarström, Harald, Robert Forkel, Martin Haspelmath, and Sebastian Bank. 2023. “Glottolog Database.” Leipzig: Max Planck Institute for Evolutionary Anthropology. <a href="https://doi.org/10.5281/zenodo.4761960">https://doi.org/10.5281/zenodo.4761960</a>.<br/>
+Hieber, Daniel W. 2020. “Digitallinguistics/Scription: V0.7.0.” Zenodo. <a href="https://doi.org/10.5281/zenodo.8131084">https://doi.org/10.5281/zenodo.8131084</a>.<br/>
+“IMT Vault.” n.d. <a href="https://imtvault.org">https://imtvault.org</a>.
+Ioannidis, J. P. A. 2005. “Why Most Published Research Findings Are False.” PLoS Medicine 2 (8): e124.<br/>
+List, Johann-Mattis, Cormac Anderson, Tiago Tresoldi, and Robert Forkel. 2021. “Cross-Linguistic Transcription Systems.” Leipzig: Max Planck Institute for Evolutionary Anthropology. <a href="https://doi.org/10.5281/zenodo.4705149">https://doi.org/10.5281/zenodo.4705149</a>.<br/>
+List, Johann-Mattis, Nathaniel A. Sims, and Robert Forkel. 2021. “Toward a Sustainable Handling of Interlinear-Glossed Text in Language Documentation.” ACM Trans. Asian Low-Resour. Lang. Inf. Process. 20 (2). <a href="https://doi.org/10.1145/3389010">https://doi.org/10.1145/3389010</a>.<br/>
+Loiseau, Sylvain. 2018. interlineaR: Importing Interlinearized Corpora and Dictionaries as Produced by Descriptive Linguistics Software. <a href="https://CRAN.R-project.org/package=interlineaR">https://CRAN.R-project.org/package=interlineaR</a>.<br/>
+McNeill, D. 1966. “A Study of Word Association.” Journal of Verbal Learning and Verbal Behavior 5 (6): 548–57.<br/>
+Moroz, George. 2021. Lingglosses: Linguistic Glosses and Semi-Automatic List of Glosses Creation. <a href="https://doi.org/10.5281/zenodo.5801712">https://doi.org/10.5281/zenodo.5801712</a>.<br/>
+Patashnik, Oren. 1988. “BibTEXing.” In Hidden Markov Models and Selected Applications in Speech Recognition. Proceedings of the IEEE 77. Citeseer.
+Smart, R. G. 1964. “The Importance of Negative Results in Psychological Research.” Canadian Psychologist/Psychologie Canadienne 5 (4): 225.<br/>
+Sterling, T. D. 1959. “Publication Decisions and Their Possible Effects on Inferences Drawn from Tests of Significance—or Vice Versa.” Journal of the American Statistical Association 54 (285): 30–34.<br/>
+Sterling, T. D., W. L. Rosenbaum, and J. J. Weinkam. 1995. “Publication Decisions Revisited: The Effect of the Outcome of Statistical Tests on the Decision to Publish and Vice Versa.” The American Statistician 49 (1): 108–12.<br/>
+Thomason, S. 1994. “The Editor’s Department.” Language 70: 409–13.<br/>
+“TROLLing: The Tromsø Repository of Language and Linguistics.” n.d. <a href="https://dataverse.no/dataverse/trolling">https://dataverse.no/dataverse/trolling</a>.<br/>
+Wieling, M., J. Rawee, and G. van Noord. 2018. “Reproducibility in Computational Linguistics: Are We Willing to Share?” Computational Linguistics 44 (4): 641–49.<br/>
+Witt, M. 2008. “Institutional Repositories and Research Data Curation in a Distributed Environment.” Library Trends 57 (2): 191–201.<br/>
+Zeman, Daniel, Joakim Nivre, Mitchell Abrams, Elia Ackermann, Noëmi Aepli, Hamid Aghaei, Željko Agić, et al. 2021. “Universal Dependencies 2.8.1.” <a href="http://hdl.handle.net/11234/1-3687">http://hdl.handle.net/11234/1-3687</a>.<br/>
+Zhang, Jing, Xindong Wu, and Victor S. Sheng. 2016. “Learning from Crowdsourced Labeled Data: A Survey.” Artificial Intelligence Review 46 (4): 543–76.<br/>
+
+
+<hr><p id="1"><sup>1</sup>In this paper, I would like to focus on those subfields of linguistics that operate with facts about language structure (grammar description, lexicography, typology, sociolinguistics), so I am leaving psycho-, neuro-, and computational linguistics aside.</p>
+
+</span>    
+      </div>
+      <div style="clear:both"></div>
+      </div>
+    </div>
+  </div>
+<div style="text-align:left;">
+  <span style="font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; "><br/><br/></span>
+  </div>
+</body>
+</html>
