@@ -8,6 +8,6 @@ aside: false
 
 [Samira Verhees - Social networks for academics](/01-verhees.html/)
 
-[George Moroz - Make more empirically grounded linguistics using cross-linguistic example database](/moroz.html/)
+[George Moroz - Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
 
 [Таня Король - Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/)
