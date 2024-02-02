@@ -95,10 +95,15 @@ Aigul Zakirova
 [Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610503.svg)](https://doi.org/10.5281/zenodo.10610503)
 
+[Таня Король. Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611084.svg)](https://doi.org/10.5281/zenodo.10611084)
+
+[George Moroz. Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
+
 [Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/) 
 
 [Samira Verhees. Social networks for academics](/01-verhees.html/)
 
-[George Moroz. Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
 
-[Таня Король. Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/)
+
+
