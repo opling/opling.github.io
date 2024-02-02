@@ -100,6 +100,7 @@ Aigul Zakirova
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611084.svg)](https://doi.org/10.5281/zenodo.10611084)
 
 [George Moroz. Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611211.svg)](https://doi.org/10.5281/zenodo.10611211)
 
 [Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
