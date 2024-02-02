@@ -8,8 +8,6 @@ aside: false
 [English](#english)
 
 
-#### Журнал по полевой лингвистике
-
 Мы хотим узнать, что вы делаете в экспедиции!
 
 Мы публикуем работы двух жанров: документация и описание языка.
@@ -39,7 +37,7 @@ aside: false
 
 ##### English
 
-#### Journal of Field Linguistics 
+#### Journal of the Field Linguists Society 
 
 We would like to know what you do in the field!
 
@@ -84,7 +82,6 @@ Please gloss your examples according to the [Leipzig glossing rules](https://www
 **Team of editors**  
 Samira Verhees  
 Konstantin Filatov  
-Ezequiel Koile  
 Stiopa Mikhailov  
 Chiara Naccarato  
 Sofia Oskolskaya  
