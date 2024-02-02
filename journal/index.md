@@ -3,8 +3,10 @@ title: Журнал ОПЛинга
 excerpt: 
 aside: false
 ---
-[Выпуск 1](#выпуск-1)
-[English below](#english)
+[**Выпуск 1**](#выпуск-1)
+
+[**English**](#english)
+
 
 #### Журнал по полевой лингвистике
 
