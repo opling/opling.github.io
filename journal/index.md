@@ -101,7 +101,8 @@ Aigul Zakirova
 
 [George Moroz. Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
 
-[Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/) 
+[Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
 
 [Samira Verhees. Social networks for academics](/01-verhees.html/)
 
