@@ -35,9 +35,9 @@ aside: false
 
 
 
-##### English
+###### English
 
-#### Journal of the Field Linguists Society 
+#### Journal of the Field Linguists Society  
 
 We would like to know what you do in the field!
 
