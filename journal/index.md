@@ -97,7 +97,7 @@ Aigul Zakirova
 ## Выпуск 1
 [Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/)
 
-[Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
+[Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
 
 [Samira Verhees. Social networks for academics](/01-verhees.html/)
 
