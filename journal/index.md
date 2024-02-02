@@ -3,12 +3,12 @@ title: Журнал ОПЛинга
 excerpt: 
 aside: false
 ---
-
+### [Выпуск 1](#Выпуск-1)
+#### [English](#English)
 
 ### ЖУРНАЛ ПО ПОЛЕВОЙ ЛИНГВИСТИКЕ
 
 Мы хотим узнать, что вы делаете в экспедиции!
-
 
 Мы публикуем работы двух жанров: документация и описание языка.
 
@@ -33,7 +33,9 @@ aside: false
 Рабочие языки: любой естественный язык
 Свои обзоры и заметки присылайте на oplingvi@gmail.com.
 
-## English
+
+
+##### English
 
 ### Journal of Field Linguistics 
 
@@ -77,28 +79,20 @@ See the [Generic style rules for linguistics](https://langsci.github.io/gsr/Gene
 
 Please gloss your examples according to the [Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php).
 
-**Team of editors**
-
-Samira Verhees
-
-Konstantin Filatov
-
-Ezequiel Koile
-
-Stiopa Mikhailov
-
-Chiara Naccarato
-
-Sofia Oskolskaya
-
-Alina Russkikh
-
-Aigul Zakirova
+**Team of editors**  
+Samira Verhees  
+Konstantin Filatov  
+Ezequiel Koile  
+Stiopa Mikhailov  
+Chiara Naccarato  
+Sofia Oskolskaya  
+Alina Russkikh  
+Aigul Zakirova  
 
 
 
 
-### Выпуск 1
+## Выпуск 1
 [Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/)
 
 [Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
