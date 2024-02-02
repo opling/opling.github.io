@@ -38,7 +38,8 @@ aside: false
 ###### English
 
 #### Journal of the Field Linguists Society  
-</br>
+
+   
 We would like to know what you do in the field!
 
 The Journal of Field Linguistics was conceived as a platform to publish relatively small papers on topics that emerge during field work but would need to be expanded or further investigated to be published in mainstream linguistic journals. 
