@@ -5,7 +5,7 @@ aside: false
 ---
 [**Выпуск 1**](#выпуск-1)
 
-[**English**](#english)
+[English](#english)
 
 
 #### Журнал по полевой лингвистике
