@@ -106,7 +106,7 @@ Aigul Zakirova
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
 
 [Samira Verhees. Social networks for academics](/01-verhees.html/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611211.svg)](https://doi.org/10.5281/zenodo.10611211)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611237.svg)](https://doi.org/10.5281/zenodo.10611237)
 
 
 
