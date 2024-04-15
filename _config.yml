@@ -126,6 +126,8 @@ navigation_header:
   url: /search/
 - title: Члены ОПЛинга
   url: /members/
+- title: Журнал
+  url: /journal/index
 - title: FAQ
   url: /faq/
 
