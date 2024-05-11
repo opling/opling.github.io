@@ -1,7 +1,7 @@
 ---
 title: 7-й семинар
 feature_text: |
-feature_image: 
+feature_image: "/assets/header_seminar7.jpg"
 excerpt: 
 aside: false
 ---
