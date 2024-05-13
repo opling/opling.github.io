@@ -4,6 +4,7 @@ excerpt:
 aside: false
 ---
 [**Выпуск 1**](#выпуск-1)
+[**Выпуск 2**](#выпуск-2)
 
 [English](#english)
 
@@ -109,4 +110,6 @@ Aigul Zakirova
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611237.svg)](https://doi.org/10.5281/zenodo.10611237)
 
 
+## Выпуск 2
+[Марина Панкова. Оппортунистический корпус на примере Корпуса донских говоров](/02-pankova.html/)
 
