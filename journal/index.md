@@ -114,6 +114,7 @@ Aigul Zakirova
 
 ## Выпуск 2
 [Марина Панкова. Оппортунистический корпус на примере Корпуса донских говоров](/02-pankova.html/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11189804.svg)](https://doi.org/10.5281/zenodo.11189804)
 
 
 
