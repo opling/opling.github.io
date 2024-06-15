@@ -3,6 +3,9 @@ feature_text: |
   ## Общество полевых лингвистов
   Some creatures prefer to spend their life deep under linguistics
 feature_image: "/assets/header.jpg"
+{% include button.html button_name="Присоединиться" button_class="primary" url="google.com"%}
+
+
 ---
 
 Общество полевых лингвистов (ОПЛинг) — площадка для обсуждения лингвистических экспедиций, полевого материала и документации языков.
