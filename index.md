@@ -10,7 +10,7 @@ feature_image: "/assets/header.jpg"
 
 Общество полевых лингвистов (ОПЛинг) — площадка для обсуждения лингвистических экспедиций, полевого материала и документации языков.
 
-{% include button.html text="Присоединиться" icon="opling" link="oplingvi@gmail.com" color="#0366d6" %}
+{% include button.html text="Присоединиться" icon="email" link="mailto: oplingvi@gmail.com" color="#0366d6" %}
 
 ## Новости
 
