@@ -6,6 +6,7 @@ feature_image: "/assets/header_events.jpg"
 excerpt: 
 aside: false
 ---
+20.09 - 23.09.2024 [8-й семинар](/seminar8/ "8-й семинар")
 
 19.04 - 22.04.2024 [7-й семинар](/seminar7/ "7-й семинар")
 
