@@ -3,9 +3,10 @@ title: Журнал ОПЛинга
 excerpt: 
 aside: false
 ---
+
 [**Выпуск 1**](/01.md/)
 
-[**Выпуск 2**](#выпуск-2)
+[**Выпуск 2**](/02.md/)
 
 [English](#english)
 
@@ -88,38 +89,6 @@ We accept papers in any natural language. Keep in mind that if the language is o
 See the [Generic style rules for linguistics](https://langsci.github.io/gsr/GenericStyleRulesLangsci.pdf) on how to structure your paper.
 
 Please gloss your examples according to the [Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php).
-
-
-
-## Выпуск 1
-
-**Team of editors:** Samira Verhees, Konstantin Filatov, Stiopa Mikhailov, Chiara Naccarato, Sofia Oskolskaya, Alina Russkikh, Aigul Zakirova
-
-[Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/) // Журнал ОПЛинга. 2024. № 1.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610503.svg)](https://doi.org/10.5281/zenodo.10610503)
-
-Таня Король. [Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/) // Журнал ОПЛинга. 2024. № 1.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611084.svg)](https://doi.org/10.5281/zenodo.10611084)
-
-George Moroz. [Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611211.svg)](https://doi.org/10.5281/zenodo.10611211) // Журнал ОПЛинга. 2024. № 1.
-
-Соня Оскольская. [Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/) // Журнал ОПЛинга. 2024. № 1.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
-
-Samira Verhees. [Social networks for academics](/01-verhees.html/) // Журнал ОПЛинга. 2024. № 1.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611237.svg)](https://doi.org/10.5281/zenodo.10611237)
-
-
-
-## Выпуск 2
-
-**Team of editors:** Sofia Oskolskaya, Valentin Gusev, Stiopa Mikhailov, Yulia Minutina, Marina Pankova, Anna Tsaturyan, Samira Verhees, Svetlana Zemicheva, Anastassiya Zhuk
-
-[Марина Панкова. Оппортунистический корпус на примере Корпуса донских говоров](/02-pankova.html/) // Журнал ОПЛинга. 2024. № 2.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11189804.svg)](https://doi.org/10.5281/zenodo.11189804)
-
-
 
 
 
