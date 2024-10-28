@@ -108,19 +108,12 @@ Samira Verhees. [Social networks for academics](/01-verhees.html/) // Журна
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611237.svg)](https://doi.org/10.5281/zenodo.10611237)
 
 **Team of editors**
-
 Samira Verhees
-
 Konstantin Filatov
-
 Stiopa Mikhailov
-
 Chiara Naccarato
-
 Sofia Oskolskaya
-
 Alina Russkikh
-
 Aigul Zakirova
 
 
