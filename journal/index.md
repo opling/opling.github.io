@@ -92,44 +92,60 @@ Please gloss your examples according to the [Leipzig glossing rules](https://www
 
 
 ## Выпуск 1
-[Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/)
+[Opling and the Journal of the Field Linguists Society. Who we are and what we do](/01-preface.html/) // Журнал ОПЛинга. 2024. № 1.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610503.svg)](https://doi.org/10.5281/zenodo.10610503)
 
-[Таня Король. Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/)
+Таня Король. [Сказки нген: обезьяны и собаки, цесарка и гиена](/01-korol.html/) // Журнал ОПЛинга. 2024. № 1.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611084.svg)](https://doi.org/10.5281/zenodo.10611084)
 
-[George Moroz. Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611211.svg)](https://doi.org/10.5281/zenodo.10611211)
+George Moroz. [Make more empirically grounded linguistics using cross-linguistic example database](/01-moroz.html/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611211.svg)](https://doi.org/10.5281/zenodo.10611211) // Журнал ОПЛинга. 2024. № 1.
 
-[Соня Оскольская. Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/)
+Соня Оскольская. [Об образном слове <i>сирбидок</i> в нанайском и его когнатах в других тунгусо-маньчжурских языках](/01-oskolskaya.html/) // Журнал ОПЛинга. 2024. № 1.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610451.svg)](https://doi.org/10.5281/zenodo.10610451)
 
-[Samira Verhees. Social networks for academics](/01-verhees.html/)
+Samira Verhees. [Social networks for academics](/01-verhees.html/) // Журнал ОПЛинга. 2024. № 1.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10611237.svg)](https://doi.org/10.5281/zenodo.10611237)
 
 **Team of editors**
+
 Samira Verhees
+
 Konstantin Filatov
+
 Stiopa Mikhailov
+
 Chiara Naccarato
+
 Sofia Oskolskaya
+
 Alina Russkikh
+
 Aigul Zakirova
 
 
 ## Выпуск 2
-[Марина Панкова. Оппортунистический корпус на примере Корпуса донских говоров](/02-pankova.html/)
+[Марина Панкова. Оппортунистический корпус на примере Корпуса донских говоров](/02-pankova.html/) // Журнал ОПЛинга. 2024. № 2.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11189804.svg)](https://doi.org/10.5281/zenodo.11189804)
 
 **Team of editors**
+
 Sofia Oskolskaya
+
 Valentin Gusev
+
 Stiopa Mikhailov
+
 Yulia Minutina
+
 Marina Pankova
+
 Anna Tsaturyan
+
 Samira Verhees
+
 Svetlana Zemicheva
+
 Anastassiya Zhuk
 
 
