@@ -2,6 +2,7 @@
 title: 8-й семинар
 feature_text: |
 excerpt: 
+feature_image: "/assets/header_seminar8.jpg"
 aside: false
 ---
 
