@@ -6,7 +6,7 @@ feature_image: "/assets/header_events.jpg"
 excerpt: 
 aside: false
 ---
-17.05 - 18.05.2024 [9-й семинар](/seminar9/ "9-й семинар")
+17.05 - 18.05.2025 [9-й семинар](/seminar9/ "9-й семинар")
 
 20.09 - 23.09.2024 [8-й семинар](/seminar8/ "8-й семинар")
 
