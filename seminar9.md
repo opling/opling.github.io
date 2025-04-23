@@ -1,7 +1,8 @@
 ---
 title: 9-й семинар
-feature_text: |
 excerpt: 
+feature_text: |
+  Some linguists meet each other in the middle of nowhere
 feature_image: "/assets/header_events.jpg"
 aside: false
 ---
