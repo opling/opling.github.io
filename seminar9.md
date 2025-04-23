@@ -2,6 +2,7 @@
 title: 9-й семинар
 feature_text: |
 excerpt: 
+feature_image: "/assets/header_events.jpg"
 aside: false
 ---
 
