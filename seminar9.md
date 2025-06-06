@@ -3,7 +3,7 @@ title: 9-й семинар
 excerpt: 
 feature_text: |
   Some linguists meet each other in the middle of nowhere
-feature_image: "/assets/header_events.jpg"
+feature_image: "/assets/header_seminar9.jpg"
 aside: false
 ---
 
