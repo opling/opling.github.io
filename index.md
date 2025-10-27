@@ -10,12 +10,12 @@ feature_image: "/assets/header.jpg"
 
 Общество полевых лингвистов (ОПЛинг) — площадка для обсуждения лингвистических экспедиций, полевого материала и документации языков.
 
-{% include button.html text="Присоединиться" icon="email" link="mailto: oplingvi@gmail.com" color="#0366d6" %} {% include button.html text="Канал в telegram" icon="telegram" link="https://t.me/OPL_ing" color="#0366d6" %}
+{% include button.html text="Присоединиться" icon="email" link="mailto: oplingvi@gmail.com" color="#0366d6" %} {% include button.html text="Канал в telegram" icon="telegram" link="[https://t.me/+G-cGOJOh70gwN2Vi]" color="#0366d6" %}
 
 
 ## Новости
 
-- 18—19 октября 2025 г. состоится [десятый выездной семинар](/seminar10.md/).
+- 18—19 октября 2025 г. прошел [десятый выездной семинар](/seminar10.md/).
 - 17—18 мая 2025 г. состоялся [девятый выездной семинар](/seminar9.md/).
 - 20—23 сентября 2024 г. состоялся [восьмой выездной семинар](/seminar8.md/).
 - 19—22 апреля 2024 г. состоялся [седьмой выездной семинар](/seminar7.md/).
