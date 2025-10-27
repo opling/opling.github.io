@@ -1,7 +1,7 @@
 ---
 title: 10-й семинар
 excerpt: 
-feature_image: "/assets/header.jpg"
+feature_image: "/assets/header_seminar10.jpg"
 aside: false
 ---
 
