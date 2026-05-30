@@ -8,6 +8,10 @@ body {
   overflow-x: hidden;
 }
 
+details {
+  display: inline;
+}
+
 summary {
   color: gray;
   text-decoration: dashed underline;
