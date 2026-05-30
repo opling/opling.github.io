@@ -8,6 +8,10 @@ body {
   overflow-x: hidden;
 }
 
+summary {
+  color: darkred
+}
+
 .container {
   width: 90%;
   max-width: 1200px;
